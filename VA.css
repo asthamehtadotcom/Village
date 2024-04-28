@@ -1,0 +1,780 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.ab {
+    width: 100%;
+    margin-left:80px;
+    padding-top: 20px;
+}
+ul.info li {
+    font-size: 14px;
+    color: #7a7a7a;
+    border-right: 1px solid #eee;
+    margin-right: 25px;
+    padding-right: 25px;
+}
+.nav {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    font-size: 1rem;
+    margin-bottom:10px;
+    padding-right:60px ;
+}
+ 
+.btnicon1 a i {
+    background-color: #f35525;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 50px;
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: -1px;
+}
+.btnicon1 a{
+    
+        display: inline-block;
+        background-color: #1e1e1e;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 400;
+        height: 50px;
+        line-height: 50px;
+        padding: 0px 30px 0px 0px;
+        border-radius: 25px;
+        transition: all .3s;
+        position: relative;
+    }
+    a{
+        text-decoration: none;
+    }
+.but {
+    margin-left: 50px;
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #1e1e1e;
+    font-weight: 700;
+    letter-spacing: 2px;
+   
+       
+}
+.nav {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+    margin-top:20px;
+}
+
+.nav li{
+    padding-right:20px;
+    
+}
+
+.nav {
+    margin-top: 5px;
+    margin-left: 760px;
+    
+}
+
+.header
+{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 300px;
+    display: flex;
+}
+::before {
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.none6{
+        height: 180vh;
+        background-image: url(https://themewagon.github.io/VillaAgency/assets/images/banner-01.jpg);
+        background-repeat: no-repeat;
+        background-position:  center top;
+    }
+    span.cat{
+    background-color: #fff;
+    color: #1e1e1e;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 6px 15px;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-top: 150px;    
+    margin-left: 250px;
+    }
+    span.cat em {
+        font-style: normal;
+        color: #f35525;
+    }
+    h2{
+        font-size: 62px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #fff;
+        line-height: 72px;
+        width: 50%;
+        margin-bottom: 0px ;
+        padding-top: 10px;
+        padding-left: 250px;
+    }
+    .none7{
+        height: 100vh;
+        background-image: url(https://themewagon.github.io/VillaAgency/assets/images/featured.jpg);
+        background-repeat: no-repeat;
+        background-position:  center top;
+        margin-right: 650px;
+
+    }
+    
+        .section h6 {
+            width: 60%;
+            color: #f35525;
+            font-size: 25px;
+           font-weight: 700;
+           text-transform: capitalize;
+            margin-top: -400px;
+            line-height: 56px;
+            margin-left: 600px;
+            
+    }
+    .section h3{
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: 20px;
+    line-height: 56px;
+    margin-left: 600px;
+    }
+    .act-body h4{
+        width: 60%;
+        color: #f35525;
+        font-size: 25px;
+       font-weight: 700;
+       text-transform: capitalize;
+        margin-bottom: -40px;
+        line-height: 56px;
+        margin-left: 600px;
+        
+    }
+    
+     #n{
+        width: 30%;
+        font-size: 20px;
+       text-transform: capitalize;
+       margin-bottom: -20px;
+       line-height: 26px;
+       position: relative;
+       right: -10px;
+       top: 20px;
+        margin-left: 600px;
+    }
+    a{
+        text-decoration: none !important;
+    }
+    .info{
+        margin-top: -350px;
+        width: 302px;
+        height: 501px;
+        margin-left: 1050px;
+        border-radius: 20px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+       padding:50px 70px;
+    }
+    li .img1{
+        float: left;
+        margin-right: 5px;
+        padding-bottom:20px ;
+    }
+    li .img2{
+        float: left;
+        margin-right: 5px;
+        padding-bottom:20px ;
+    }
+    li .img3{
+        float: left;
+        font-size: 22px;
+        font-weight: 600;
+        padding-bottom:20px ;
+    }
+    li .img4{
+        float: left;
+        font-size: 22px;
+        font-weight: 600;
+        padding-bottom:20px ;
+    }
+    
+    ul li h4 {
+        font-size: 22px;
+        font-weight: 600;
+        color: black;
+        margin-right: -450px;
+        margin-right: 220px;
+    }
+    ul li h4 span{
+        font-size: 15px;
+        color: #aaa;
+      font-weight: 400;
+    }
+    .none8{
+        height: 180vh;
+        background-image: url(https://themewagon.github.io/VillaAgency/assets/images/video-bg.jpg);
+        background-repeat: no-repeat;
+        background-position:  center top;
+    }
+    .sec h6 {
+        position: relative;
+        color: #ee626b;
+        font-size: 20px;
+        text-transform: uppercase;
+        font-weight: 700;
+        text-align: center;
+        padding-top: 100px;
+    }
+    .sec h2 {
+        position: relative;
+        color: #fff;
+        font-size: 15px;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 40px;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-top: 20px;
+        margin-left: 250px;
+        line-height: 56px;
+        text-align: center;
+        
+        
+    }
+    .audio{
+        height: 70vh;
+        background-image: url(https://themewagon.github.io/VillaAgency/assets/images/video-frame.jpg);
+        background-repeat: no-repeat;
+        background-position:  center top;
+        border-radius: 20px;
+        width: 75%;
+        overflow: hidden;
+        margin-left: 200px;
+        
+      
+    }
+    .fa {
+        font-family: var(--fa-style-family, "Font Awesome 6 Free");
+        font-weight: var(--fa-style, 900);
+    }
+    .audio a{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-26px, -26px);
+    width: 52px;
+    height: 52px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 52px;
+    color: #f35525;
+    outline: 15px solid rgba(254, 85, 37, 0.5);
+    font-size: 18px;
+    margin-top: 1850px;
+    
+    }
+    a {
+        text-decoration: none !important;
+    }
+   
+    .none9{
+        height: 80vh;
+        background-color: lightgray;
+        background-repeat: no-repeat;
+        background-position:  center top;
+        }
+
+        .sec1 h6{
+            width: 60%;
+            color: #f35525;
+            font-size: 20px;
+           font-weight: 700;
+           text-transform: capitalize;
+            margin-bottom: -40px;
+            line-height: 56px;
+            margin-left: 200px;
+        }
+        .sec1 h2 {
+            color: #000;
+            font-size: 15px;
+            text-transform: uppercase;
+            font-weight: 700;
+            font-size: 35px;
+            font-weight: 700;
+            text-transform: capitalize;
+            margin-top: 20px;
+            margin-left: -50px;
+            line-height: 56px;           
+        }
+        .btn1{
+                background-color: #f35525 ;
+                color: #fff;
+                font-size: 16px;
+                font-weight: 500;
+                border-radius: 5px;
+                height: 50px;
+                line-height: 50px;
+                display: inline-block;
+                padding: 0px 25px;
+                margin-left: 850PX;
+                position: relative;
+                top: -50px;
+ 
+        }
+        .btn2{
+            background-color: #000 ;
+            color: #fff;
+            font-size: 16px;
+            font-weight: 500;
+            border-radius: 5px;
+            height: 50px;
+            line-height: 50px;
+            display: inline-block;
+            padding: 0px 25px;
+            margin-left: 1050PX;
+            position: relative;
+            top: -100px;
+    
+    }
+    .btn3{
+        background-color: #000;
+        color: #fff;
+        font-size: 16px;
+        font-weight: 500;
+        border-radius: 5px;
+        height: 50px;
+        line-height: 50px;
+        display: inline-block;
+        padding: 0px 25px;
+        margin-left: 1250PX;
+        position: relative;
+        top: -150px;
+     
+
+}
+.info1{
+    position: relative;
+    margin-top: -90px;
+    width: 250px;
+    height: 380px;
+    margin-left: 150px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+    padding:50px 70px;
+}
+.info1 ul li {
+    display: block;
+    margin-bottom: 24px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #eee;
+    text-align: left;
+    font-size: 15px;
+    color: #aaa;
+    font-weight: 400;
+    margin-right: -50px;
+    position: relative;
+    right: 50px;
+    
+    
+}
+.info1 ul li span {
+
+    font-size: 20px;
+    color: #1e1e1e;
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    right: -50px;
+}
+.img5{
+    width: 450%;
+    background-image: url(https://themewagon.github.io/VillaAgency/assets/images/deal-01.jpg);
+    background-repeat: no-repeat;
+    background-position:  center top;
+    margin-left: 250PX;
+    position: relative;
+        top: -420px;
+}
+ .img5 .one{
+    margin-top: 155px;
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    margin-left: 550PX;
+    margin-right: -550px;
+    position: relative;
+        top: -540px;
+}
+p{
+    font-size: 20px;
+    line-height: 28px;
+    color: #4a4a4a;
+    position: relative;
+    top: -540px;
+    right:-550px; ;
+}
+.btnicon a i {
+    background-color: #f35525;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 50px;
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: -1px;
+}
+.btnicon a{
+    
+        display: inline-block;
+        background-color: #1e1e1e;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 400;
+        height: 50px;
+        line-height: 50px;
+        padding: 0px 30px 0px 0px;
+        border-radius: 25px;
+        transition: all .3s;
+        position: relative;
+        top: -510px;
+        right: -550px;
+    
+    }
+    a{
+        text-decoration: none;
+    }
+    .none10{
+        height: 80vh;
+        background-color: lightgray;
+        background-repeat: no-repeat;
+        background-position:  center top;
+        }
+
+        .sec2 h6{
+            width: 60%;
+            color: #f35525;
+            font-size: 20px;
+           font-weight: 700;
+           text-transform: capitalize;
+            margin-bottom: -40px;
+            line-height: 56px;
+            margin-left: 200px;
+            position: relative;
+            top: -350px;
+        }
+        .sec2 span {
+            color: #000;
+            font-size: 15px;
+            text-transform: uppercase;
+            font-weight: 700;
+            font-size: 35px;
+            font-weight: 700;
+            text-transform: capitalize;
+            margin-top: 20px;
+            margin-left: -0.50px;
+            right: -150px;
+            line-height: 56px; 
+            position: relative;
+            top: -300px;
+            text-align: center;   
+        }
+
+             
+.item{
+  
+    background-color: #fafafa;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px;
+    position: relative;
+    top: -250px;
+    left: -450px;
+}
+
+span.cat {
+    background-color: #fbd9cf;
+    font-weight: 500;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #1e1e1e;
+    padding: 5px 10px;
+    display: inline-block;
+    margin-top: 25px;
+    position: relative;
+    left: -250px; 
+}
+.item h6 {
+    text-align: center;
+    margin-bottom: 15px;
+    position: relative;
+    right: -250px; 
+    top: -80px;
+
+}
+.item h6 {
+    font-size: 20px;
+    color: #f35525;
+    display: inline-block;
+    margin-top: 30px;
+    font-weight: 700;
+}
+.item strong a {
+    color: #1e1e1e;
+    position: relative;
+    top: -40px;
+    left: -90px; 
+}
+a{
+    text-decoration: none;
+}
+.item ul li {
+    margin-right: 10px;
+    font-size: 13px;
+    color: #4a4a4a;
+    
+  
+}
+.item ul li span {
+    font-weight: 600;
+    color: #1e1e1e;
+}
+.item .mbtn {
+    text-align: center;
+}
+.mbtn a {
+    display: inline-block;
+    background-color: #1e1e1e;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 30px;
+    border-radius: 25px;
+    transition: all .3s;
+    position: relative;
+    bottom: -30px;
+}
+a{
+    text-decoration: none;
+}
+
+span.cat1{
+    background-color: #fff;
+    color: #1e1e1e;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 6px 15px;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-top: 150px;    
+    margin-left: 250px;
+    }
+    span.cat1 em {
+        font-style: normal;
+        color: #f35525;
+    }
+
+    .last{
+        height: 126vh;
+        background-image: url(https://themewagon.github.io/VillaAgency/assets/images/contact-bg.jpg);
+        background-repeat: no-repeat;
+        background-position:  center top;
+        position: relative;
+        left: -950px;
+        width: 2500px;
+        top: -200px;
+    }
+    .mid h4 {
+        position: relative;
+        color: #ee626b;
+        font-size: 20px;
+        text-transform: uppercase;
+        font-weight: 700;
+        text-align: center;
+        padding-top: 100px;
+        
+    }
+    .mid h6 {
+        position: relative;
+        color: #fff;
+        font-size: 15px;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 40px;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-top: 20px;
+        right: -20px;
+        left:40px;
+        line-height: 56px;
+        text-align: center;
+    }
+    iframe {
+        position: relative;
+        top: 50px;
+        left: 650px;
+    }
+    .form{
+        margin-top: -350px;
+        width: 400px;
+        height: 550px;
+        margin-left: 1050px;
+        border-radius: 20px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+        background-color: #fff;
+        padding:50px 70px;
+        position: relative;
+        right: -350px;
+        bottom: 50px; 
+        display: flex;
+        flex-direction: column;
+        position: relative;
+         
+    }
+  
+      label{
+        top:30px;
+        font-size: .875rem;
+        right: 10px;
+        color:blue;
+        position: relative;
+      }
+      input{
+        height: 30px;
+        width: 300px;
+        right: 25px;
+        border-radius: 30px;
+        border: none transparent;
+        background-color: #f2f2f2;
+        top:40px;
+        margin-bottom: 30px;
+        position: relative;
+      }
+      input::placeholder{
+        left:13px;
+        position: relative;
+      }
+      textarea{
+        top:50px;
+        width: 320px;
+        right: 20px;
+        height: 150px;
+        border: none transparent;
+        border-radius: 10px;
+        background-color: #f2f2f2;
+        position: relative;
+        
+      }
+      textarea::placeholder{
+        top:10px;
+       left:10px;
+        position: relative;
+        
+      }
+    
+    .phone{
+        position: relative;
+        top: -20px;
+        right: 30px;
+        
+        
+    }
+    .icon12{
+        margin-top: -150px;
+        width: 300px;
+        height: 10px;
+        margin-left: 1050px;
+        border-radius: 20px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+        background-color: #fff;
+        padding:50px 70px;
+        position: relative;
+        right: 400px;
+        bottom: -100px;
+    }
+    b{
+        position: relative;
+        top: -35px;
+        left: -2px;
+    }
+    .phon{
+        position: relative;
+        top: -35px;
+        left: 30px; 
+        color: #aaa;
+    }
+    .emi{
+        margin-top: -150px;
+        width: 300px;
+        height: 10px;
+        margin-left: 1050px;
+        border-radius: 20px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
+        background-color: #fff;
+        padding:50px 70px;
+        position: relative;
+        right: 740px;
+        bottom: -80px;
+        top: 25px;
+    }
+    .email{
+        position: relative;
+        top: -20px;
+        right: 30px;  
+    }
+
+    b .el{
+        position: relative;
+        top: -35px;
+        left: -2px;
+    }
+    .emai{
+        position: relative;
+        top: -35px;
+        left: 30px; 
+        color: #aaa;
+    }
+    .footer{
+        background-color: #000;
+        width: 1500%;
+        height: 100px;
+        position: relative;
+        bottom: -150px;
+        left: -350px; 
+        
+    }
+    .fr{
+        position: relative;
+        top: -1px;
+        text-align: center;
+        left: 30px; 
+        color: #fafafa;
+        left: -250px;
+        margin-bottom: -150px;
+        font-size: 1rem;
+       font-family: Arial, Helvetica, sans-serif;
+        font-weight: 100;
+    }
